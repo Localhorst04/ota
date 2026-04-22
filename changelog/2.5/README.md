@@ -1,15 +1,16 @@
-# AXION AOSP REVERIE 2.5 GMS CORE
+# UNOFFICIAL BUILD - AXION AOSP REVERIE 2.5 GMS CORE
 
-## Unofficial build by Localhorst04
+## by Localhorst04
 
 ---
 
 ## Device Changelog
-• Initial Build
+- AxionFx works now
+- Synced latest AxionOS sources
 
 ## Issues
-• AxionFX
-• QS Paddings
+- QS Paddings
+- Overlay related UI weirdness
 
 ---
 
