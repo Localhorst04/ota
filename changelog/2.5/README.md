@@ -5,12 +5,12 @@
 ---
 
 ## Device Changelog
-- AxionFx works now
 - Synced latest AxionOS sources
+- AxionFx works now
+- Adjusted QS Paddings
 
 ## Issues
-- QS Paddings
-- Overlay related UI weirdness
+- Expanded QS-Tiles sometimes look funny
 
 ---
 
