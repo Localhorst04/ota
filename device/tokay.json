@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1776895871,
-            "filename": "axion-2.5-REVERIE-20260422-UNOFFICIAL-GMS-tokay.zip",
-            "id": "418e484aad966c7573e103dad2405b92",
+            "datetime": 1777046617,
+            "filename": "axion-2.6-QUASIS-20260424-UNOFFICIAL-GMS-tokay.zip",
+            "id": "98d1afe7b5e813abe0e518d3c05e5938",
             "romtype": "UNOFFICIAL",
-            "size": 2080392493,
-            "url": "https://github.com/Localhorst04/ota/releases/download/test3/axion-2.5-REVERIE-20260422-UNOFFICIAL-GMS-tokay.zip",
-            "version": "2.5"
+            "size": 2071230116,
+            "url": "https://github.com/Localhorst04/ota/releases/download/test4/axion-2.6-QUASIS-20260424-UNOFFICIAL-GMS-tokay.zip",
+            "version": "2.6"
         }
     ]
 }
