@@ -1,20 +1,24 @@
 # AXION AOSP QUASIS 2.6 
 ---
 ## GMS CORE VERSION
-- **UNOFFICIAL BETA BUILD by Localhorst04**
-
+  - **UNOFFICIAL BETA BUILD by Localhorst04**
 ---
 
 ## Device Changelog
 - Make use of new Axion 2.6 perf config
 
-  ### Issues
+  **Issues**
   - Expanded QS-Tiles sometimes look funny
 
 ---
 
-# AxionOS 2.6 Changelog
+## Source Changelog
+
+**AxionOS Version**: 2.6 QUASIS
 **Security Patch:** March 2026
 
 
+### What has changed?
 - source changelog soon
+
+---
