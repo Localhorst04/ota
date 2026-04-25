@@ -6,6 +6,8 @@
 
 ## Device Changelog
 - Make use of new Axion 2.6 perf config
+- Adjust a few overlays
+- Fix FP unlock animation bug
 
   **Issues**
   - Expanded QS-Tiles sometimes look funny
