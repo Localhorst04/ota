@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1777046617,
-            "filename": "axion-2.6-QUASIS-20260424-UNOFFICIAL-GMS-tokay.zip",
-            "id": "98d1afe7b5e813abe0e518d3c05e5938",
+            "datetime": 1777112184,
+            "filename": "axion-2.6-QUASIS-20260425-UNOFFICIAL-GMS-tokay.zip",
+            "id": "f0cd93ae637541ffbf0336e2283b93c8",
             "romtype": "UNOFFICIAL",
-            "size": 2071230116,
-            "url": "https://github.com/Localhorst04/ota/releases/download/test4/axion-2.6-QUASIS-20260424-UNOFFICIAL-GMS-tokay.zip",
+            "size": 2071230339,
+            "url": "https://github.com/Localhorst04/ota/releases/download/test5/axion-2.6-QUASIS-20260425-UNOFFICIAL-GMS-tokay.zip",
             "version": "2.6"
         }
     ]
