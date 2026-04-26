@@ -6,7 +6,8 @@
 
 ## Device Changelog
 - Make use of new Axion 2.6 perf config
-- Adjust a few overlays
+- Adjust UDFPS Animation size and offset values
+- Add Restart SystemUI instead of Restart Fastboot
 - Fix FP unlock animation bug
 
   **Issues**
