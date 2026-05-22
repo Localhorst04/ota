@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1779314412,
-            "filename": "axion-2.6-QUASIS-20260520-UNOFFICIAL-CORE-tokay.zip",
-            "id": "d6aff9250906b584e6e8c9f9c45d3901",
+            "datetime": 1779452321,
+            "filename": "axion-2.6-QUASIS-20260522-UNOFFICIAL-CORE-tokay.zip",
+            "id": "b6e9f4308e6a40875544343e4a9a28ab",
             "romtype": "UNOFFICIAL",
-            "size": 2094480290,
-            "url": "https://sendit.sh/EykTi/XuBUJ.zip?download=1",
+            "size": 2094485312,
+            "url": "https://github.com/Localhorst04/ota/releases/download/test7/axion-2.6-QUASIS-20260522-UNOFFICIAL-CORE-tokay.zip",
             "version": "2.6"
         }
     ]
